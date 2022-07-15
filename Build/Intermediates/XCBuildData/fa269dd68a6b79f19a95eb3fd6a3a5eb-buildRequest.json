@@ -1,0 +1,50 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "a9ded1ea6f082e12f65275f781f8bf628f7e4f4771b9ba8f4559f6dd0e12908b"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Maximus/Downloads/3dscope/CellTracking/Build/Intermediates",
+      "buildProductsPath" : "/Users/Maximus/Downloads/3dscope/CellTracking/Build/Products",
+      "derivedDataPath" : "/Users/Maximus/Downloads/3dscope/Data",
+      "indexDataStoreFolderPath" : "/Users/Maximus/Downloads/3dscope/Data/CellTracking-eygyyxadiuredmhdzxdahpnxidnu/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Maximus/Downloads/3dscope/Data/CellTracking-eygyyxadiuredmhdzxdahpnxidnu/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Maximus/Downloads/3dscope/CellTracking/Build/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
