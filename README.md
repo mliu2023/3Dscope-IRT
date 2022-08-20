@@ -1,4 +1,4 @@
-# 2dTracking
+# 3D scope
 
 This project aims to quantify the phototatic memory of Chlamnydomonas Reinhardtii, a unicellular green alga.  By tracking the cells' responses to light, we hope to compute a phototaxis index which describes how strongly the cells are moving towards the light.
 
