@@ -14,4 +14,4 @@ To track cells in three dimensions, we use a 3D microscope and calculate the rad
 
 <img src = "airydisk.png">
 
-The all of the code can be found [here](https://www.dropbox.com/sh/wuv22wedix1lpdb/AABHYAdSVm6h8VcDM4YXfU16a?dl=0).
+All of the code can be found [here](https://www.dropbox.com/sh/wuv22wedix1lpdb/AABHYAdSVm6h8VcDM4YXfU16a?dl=0).
